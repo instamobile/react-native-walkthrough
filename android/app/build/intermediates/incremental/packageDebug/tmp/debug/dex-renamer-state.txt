@@ -1,0 +1,4 @@
+#Sun Jan 20 13:34:03 PST 2019
+base.0=/Users/Florian/workspace/open-source/react-native-walkthrough/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
