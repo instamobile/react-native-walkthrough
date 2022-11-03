@@ -1,24 +1,23 @@
 {
+  "name": "walkthrough",
+  "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
+    "ios": "expo start --ios"
   },
   "dependencies": {
-    "expo": "^40.0.1",
-    "prop-types": "^15.7.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
-    "react-native-app-intro-slider": "^4.0.4",
-    "react-native-appearance": "~0.3.3",
-    "react-native-web": "~0.13.12"
+    "expo": "~46.0.16",
+    "expo-status-bar": "~1.4.0",
+    "prop-types": "^15.8.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-app-intro-slider": "^4.0.4"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "^7.12.9"
   },
   "private": true
 }

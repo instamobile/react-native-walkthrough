@@ -1,9 +1,8 @@
 import React from "react";
-import { View, Image, Text } from "react-native";
+import { View, Image, Text, useColorScheme } from "react-native";
 import PropTypes from "prop-types";
 import AppIntroSlider from "react-native-app-intro-slider";
 import dynamicStyles from "./styles";
-import { useColorScheme } from "react-native-appearance";
 
 const WalkthroughScreen = (props) => {
   const appConfig = props.appConfig;
